@@ -1,7 +1,5 @@
 ﻿# Exploratory_Data_Analysis-on-Retail-Sales-Data
 
- # 🛒 Retail Sales EDA Project
-
 This project performs **Exploratory Data Analysis (EDA)** on a retail sales dataset using Python. The goal is to uncover insights from the data, identify customer and product trends, and visualize time-based patterns in sales.
 
 ## 📁 Dataset
